@@ -9,6 +9,7 @@ public class Solution3 {
 		int[]c =  { 2, 3, 5, 3, 5, 9};
 		int[]d =  { 5, 3, 5, 3, 5, 9};
 		
+		//result printed
 		System.out.println("First paint: " + solution(arr));
 		System.out.println("2nd paint: " + solution(a));
 		System.out.println("3rd paint: " + solution(b));
